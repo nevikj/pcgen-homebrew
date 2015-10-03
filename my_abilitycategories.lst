@@ -11,7 +11,7 @@
 #listing of all PCGen tags to the left of the documentation window. You can find the global tags there as well.
 #
 
-#
+ABILITYCATEGORY:Homebrew Rules	CATEGORY:Special Ability	TYPE:Homebrew Rule	EDITABLE:YES	DISPLAYLOCATION:Misc	EDITPOOL:NO	FRACTIONALPOOL:NO	VISIBLE:YES
 # Ability Categories
 #Example of a SuperSet or Parent
 #ABILITYCATEGORY:Special Ability	CATEGORY:Special Ability	EDITABLE:YES	EDITPOOL:NO	FRACTIONALPOOL:NO	VISIBLE:NO

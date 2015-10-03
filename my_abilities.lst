@@ -36,6 +36,8 @@ SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mywebsite
 # You can also use PREFEAT for any CATEGORY:FEAT, for the rest you'll need to use PREABILITY:x,CATEGORY=<category>,Foo,TYPE.Bar (x is the number)
 #####1st Example
 
+Background Skills (2)	CATEGORY:Special Ability	TYPE:Homebrew Rule	STACK:NO	MULT:YES	CHOOSE:SKILL|ALL	SELECT:2	BONUS:SKILLRANK|%LIST|TL	COST:0
+
 #My Ability			CATEGORY:my_abilities		TYPE:General.DataMonkey		DESC:See Text						SOURCEPAGE:Custom
 #My Second Ability	CATEGORY:Special			TYPE:MonkeyFoo			DESC:This is the great second ability.		SOURCEPAGE:Custom	PREABILITY:1,CATEGORY=my_abilities,My Ability
 
